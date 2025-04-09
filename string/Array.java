@@ -1,6 +1,6 @@
 package string;
 
-public class Main {
+public class Array {
     public static void main(String[] args) {
         //non primitive types
         String name="pavan";

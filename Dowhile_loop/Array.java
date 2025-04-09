@@ -1,7 +1,7 @@
 package Dowhile_loop;
 
 import java.util.Scanner;
-public class Main {
+public class Array {
     public static void main(String[] args) {
 
         //do while loop

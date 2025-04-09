@@ -1,7 +1,7 @@
 package Casting;
 
 
-public class Main {
+public class Array {
     public static void main(String[] args) {
 
         //casting

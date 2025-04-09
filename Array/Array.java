@@ -2,7 +2,7 @@ package Array;
 
 import java.util.Arrays;
 
-public class Main {
+public class Array {
     public static void main(String[] args) {
         int physics=98;
         int chem = 93;
