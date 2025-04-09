@@ -1,7 +1,7 @@
 package Try_catch;
 
 
-public class Array {
+public class Trycatch {
     public static void main(String[] args) {
 
 

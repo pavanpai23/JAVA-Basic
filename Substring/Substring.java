@@ -1,6 +1,6 @@
 package Substring;
 
-public class Array {
+public class Substring {
     public static void main(String[] args) {
         //strings
         //substrings

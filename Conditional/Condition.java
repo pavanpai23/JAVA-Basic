@@ -1,7 +1,7 @@
 package Conditional;
 
 
-public class Array {
+public class Condition {
     public static void main(String[] args) {
 
         //conditional statement

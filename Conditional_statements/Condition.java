@@ -1,7 +1,7 @@
 package Conditional_statements;
 
 import java.util.Scanner;
-public class Array{
+public class Condition{
     public static void main(String[] args) {
 
         //conditional operator

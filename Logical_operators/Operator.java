@@ -1,7 +1,7 @@
 package Logical_operators;
 
 
-public class Array {
+public class Operator {
     public static void main(String[] args) {
 
         //logical operator

@@ -1,9 +1,9 @@
 package string;
 
-public class Array {
+public class String {
     public static void main(String[] args) {
         //non primitive types
-        String name="pavan";
+        java.lang.String name="pavan";
         System.out.println(name.length());
     }
 }

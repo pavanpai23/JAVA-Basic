@@ -1,7 +1,7 @@
 package operator;
 
 
-public class Array {
+public class Operator {
     public static void main(String[] args) {
 
         //operators

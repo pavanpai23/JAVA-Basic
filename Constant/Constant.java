@@ -1,7 +1,7 @@
 package Constant;
 
 
-public class Array {
+public class Constant {
     public static void main(String[] args) {
         //constants
 

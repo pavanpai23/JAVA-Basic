@@ -1,7 +1,7 @@
 package Functions;
 
 
-public class Array {
+public class Function {
 
     public static void printjava(){
         System.out.println("hello java");

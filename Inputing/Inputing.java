@@ -1,7 +1,7 @@
 package Inputing;
 
 import java.util.Scanner;
-public class Array {
+public class Inputing {
     public static void main(String[] args) {
 
         //how to take input

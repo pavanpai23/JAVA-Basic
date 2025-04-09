@@ -1,7 +1,7 @@
 package Miniproject;
 
 import java.util.Scanner;
-public class Array{
+public class Miniproject {
     public static void main(String[] args) {
 
         //Mini project
